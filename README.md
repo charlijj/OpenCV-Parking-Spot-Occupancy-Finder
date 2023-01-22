@@ -1,6 +1,6 @@
 <h1 align="center">PARKING SPOT AVAILABILITY CHECKER</h1>
 
-<img src="virtualEnv/img/parking-lot.png" alt="parking lot">
+<img align="center" src="virtualEnv/img/parking-lot.png" alt="parking lot">
 
 ABOUT:
 
