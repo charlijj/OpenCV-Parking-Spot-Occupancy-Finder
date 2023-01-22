@@ -18,6 +18,8 @@ python3.8-venv
 
 HOW TO RUN:
 
+clone repo and cd into OpenCV-Parking-Spot-Occupancy-Finder/
+
 cd virtualEnv
 
 source bin/activate
@@ -25,5 +27,8 @@ source bin/activate
 pip install -r req.txt
 
 python3 PL-space-detector.py 
+
+TO SELECT PARKING SPOT, LEFT CLICK ON TOP LEFT CORNER
+TO DESELECT PARKING SPOT, RIGHT CLICK ANYWHERE INSIDE SPOT BORDER
 
 TO CLOSE PROGRAM PRESS THE SPACE BAR
