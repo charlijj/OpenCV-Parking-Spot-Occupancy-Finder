@@ -1,7 +1,5 @@
 <h1 align="center">PARKING SPOT AVAILABILITY CHECKER</h1>
 
-<img align="center" src="virtualEnv/img/parking-lot.png" alt="parking lot">
-
 ABOUT:
 
 This program determine if a selected parking spot is full or empty.
