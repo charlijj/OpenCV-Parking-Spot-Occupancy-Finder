@@ -1,4 +1,4 @@
-<h1 align="center">----------- PARKING SPOT AVAILABILITY CHECKER -----------</h1>
+<h1 align="center">PARKING SPOT AVAILABILITY CHECKER</h1>
 
 ABOUT:
 
@@ -11,16 +11,17 @@ if the number of pixels is hight ( > 130) then the spot is most likely occupied.
 
 Dependencies:
 
-pip
-
 python-3.8+
 
+python3-pip
+
+python3.8-venv
 
 -----------------------------------------------------------
 
 HOW TO RUN:
 
-while in openCV-test-env/ :
+cd virtualEnv
 
 source bin/activate
 
