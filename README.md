@@ -16,7 +16,7 @@ python3.8-venv
 
 -----------------------------------------------------------
 
-HOW TO RUN:
+HOW TO RUN (Linux):
 
 clone repo and cd into OpenCV-Parking-Spot-Occupancy-Finder/
 
